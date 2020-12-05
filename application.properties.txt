@@ -1,6 +1,0 @@
-server:
-      port: 1011
-
-app:
-    value: sir
-    description: ${app.value}
